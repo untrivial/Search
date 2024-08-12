@@ -2,3 +2,5 @@
 secrets.env
 venv/
 **/__pycache__/
+reddit_comments.txt
+reddit_links.txt
